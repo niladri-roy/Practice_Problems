@@ -31,7 +31,7 @@ void approach2(int first, int second, int n)
 
 void approach3(int first, int second, int n)
 {
-
+    
 }
 
 int main()
